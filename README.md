@@ -31,7 +31,7 @@ The aggregate Draft 0.2 catalog is published in both `catalog/abcs-0.2.yaml` and
 
 The lightweight, non-normative reference implementation is maintained separately at:
 
-`https://github.com/sirvisetti/autonomous-business-reference`
+`https://github.com/sirvisetti/autonomy-reference`
 
 The reference depends on ABCS. ABCS does not depend on the reference implementation.
 
